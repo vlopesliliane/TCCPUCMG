@@ -1,4 +1,7 @@
-# TCCPUCMG
+# PERFIL DE GESTÃO CULTURAL DOS MUNICÍPIOS BRASILEIROS E A APLICAÇÃO DE MODELOS DE MACHINE LEARNING PARA A CLASSIFICAÇÃO DO ESTADO DE CONSERVAÇÃO DOS SEUS BENS CULTURAIS
+
+## Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciência de Dados e Big Data como requisito parcial à obtenção do título de especialista.
+
 ### 1- Descrição do problema ou tarefa:
 De acordo com a Pesquisa de Informações Básicas Municipais – Munic, realizada pelo IBGE, quais características do perfil de gestão municipal da cultura do ano de 2021, mais contribuem para a classificação do estado de conservação dos bens culturais, registrado no Sistema Integrado de Conhecimento e Gestão – SICG/IPHAN?.
 ### 2- Descrição da solução de IA:
@@ -12,4 +15,5 @@ Sistema Integrado de Conhecimento e Gestão – SICG/IPHAN: https://dados.gov.br
 ### 5- Variável dependente (resposta ou "target"):
 'estado_conservacao' (4 classes)
 
+### 6- Apresentação dos Resultados 
 ![Logo do GitHub](Canvas_Projeto_ML.png)
