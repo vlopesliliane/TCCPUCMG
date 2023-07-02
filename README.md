@@ -1,6 +1,6 @@
-# PERFIL DE GESTÃO CULTURAL DOS MUNICÍPIOS BRASILEIROS E A APLICAÇÃO DE MODELOS DE MACHINE LEARNING PARA A CLASSIFICAÇÃO DO ESTADO DE CONSERVAÇÃO DOS SEUS BENS CULTURAIS
+## PERFIL DE GESTÃO CULTURAL DOS MUNICÍPIOS BRASILEIROS E A APLICAÇÃO DE MODELOS DE MACHINE LEARNING PARA A CLASSIFICAÇÃO DO ESTADO DE CONSERVAÇÃO DOS SEUS BENS CULTURAIS
 
-## Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciência de Dados e Big Data como requisito parcial à obtenção do título de especialista.
+### Trabalho de Conclusão de Curso apresentado ao Curso de Especialização em Ciência de Dados e Big Data como requisito parcial à obtenção do título de especialista.
 
 ### 1- Descrição do problema ou tarefa:
 De acordo com a Pesquisa de Informações Básicas Municipais – Munic, realizada pelo IBGE, quais características do perfil de gestão municipal da cultura do ano de 2021, mais contribuem para a classificação do estado de conservação dos bens culturais, registrado no Sistema Integrado de Conhecimento e Gestão – SICG/IPHAN?.
